@@ -11,7 +11,7 @@ A curious experiment of no real productive nature- Just for "fun". To explore wh
 
 AI generated theme template base off of uploaded image- the image is of a ESP32 'Cheap Yellow Display"(CYD). 
 
->[Note]
+>[Notes]
 > There had been some "guidance" provided, by including some links. These links contained official specifications, descriptions along with providing the most popular uses for the CYD. Any suplimental data; be it extra images, relative links, brand / company/ bios, links to content that speak directly about subject matter- maybe a link to the most popular project or a forum post/ forum posts which have extensive discussiom regarding subject within image, most starred/ official github, etc... will be documented. These will have great thought put into them in desciding to be included. They should strongly resonate with subject- first things that come to mind when thinking about it. However possible these extras will be limited. The focus is on the theme generation from image- a "bias" of of what AI "sees", not reads about or discovers.
 
 The image that had been provided was that of the PCB in its final form. Just the PCB. It had been chosen for its unique characteristics, physical attributes... being that bright yellow with the gold
